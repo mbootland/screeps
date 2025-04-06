@@ -1,0 +1,14 @@
+{
+  "name": "screeps-typescript",
+  "version": "1.0.0",
+  "description": "Screeps TypeScript project",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "@types/screeps": "^3.3.4",
+    "typescript": "^5.3.3"
+  }
+} 
