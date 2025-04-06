@@ -14,7 +14,7 @@
   },
   "include": [
     "src/**/*"
-  ],
+, "main.ts", "src/role.harvester.ts"  ],
   "exclude": [
     "node_modules"
   ]
